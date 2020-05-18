@@ -6,7 +6,7 @@
   "scripts": {
     "server": "nodemon index.js",
     "test:watch": "jest --watch",
-		"test": "jest"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
